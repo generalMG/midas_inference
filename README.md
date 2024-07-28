@@ -37,3 +37,6 @@ You can specify the model type by modifying the run function call at the end of 
 
 ```run(ModelType.DPT_LARGE)```
 
+## Figure
+
+![MiDaS Inference Screenshot](https://github.com/user-attachments/assets/8594d07f-ac01-4c27-84e9-7d9544fc8e8b)
